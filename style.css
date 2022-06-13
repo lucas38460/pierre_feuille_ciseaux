@@ -21,6 +21,11 @@ body {
 #center {
   display: flex;
   justify-content: space-around;
-  align-items:center;
+  align-items: center;
   margin-top: 25rem;
+}
+
+#choice {
+  text-align: center;
+  font-size: 5rem;
 }
